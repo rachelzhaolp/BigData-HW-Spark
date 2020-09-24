@@ -1,0 +1,4 @@
+2a. Block 0000X is the most dangerous place in terms of crime events in the last 3 years.
+    Please find the other top 10 blocks and its number of crime events in zhao_2.txt.
+2b. Beat 1931 and 1933 are adjacent and their correlation in the number of crime events is 0.99
+2c. The annual homicide crime number is higher during the tenure of Mayor Emanuel.

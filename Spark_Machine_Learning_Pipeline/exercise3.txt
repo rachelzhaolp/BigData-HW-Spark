@@ -1,0 +1,2 @@
+Out of sample R Square of the Gradient Boosted Tree Model with all data is 0.71
+Out of sample R Square of the Gradient Boosted Tree Model with violent crime data is 0.57

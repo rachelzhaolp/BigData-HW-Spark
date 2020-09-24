@@ -1,0 +1,4 @@
+Please refer to zhao_4.txt for data and zhao_4.png for visualization.
+1. The number of crimes with arrest is high in the evening and low during night hours.
+2. Least people got arrested on Monday.
+3. Least people got arrested during December.

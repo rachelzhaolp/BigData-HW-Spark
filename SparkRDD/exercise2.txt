@@ -1,0 +1,45 @@
+2(1): Find the top 10 blocks in crime events in the last 3 years; 
+('0000X', 29735)
+('001XX', 21553)
+('002XX', 16943)
+('003XX', 15281)
+('008XX', 14520)
+('015XX', 14150)
+('006XX', 13384)
+('007XX', 13255)
+('014XX', 13218)
+('011XX', 13165)
+2(2): Find the two beats that are adjacent with the highest correlation in the number of crime events (this will require you looking at the map to determine if the correlated beats are adjacent to each other) over the last 5 years. 
+[0.9990217951872251, '0932', '1712']
+[-0.9989663097085922, '0722', '0524']
+[-0.9984745766683734, '0823', '0114']
+[0.9983682879794051, '1833', '0112']
+[-0.9981285880478877, '0322', '0121']
+[-0.9979341284804639, '0724', '1023']
+[-0.9978705580636585, '1224', '0334']
+[0.9977500996044633, '2012', '2022']
+[-0.9975881001567053, '1234', '1114']
+[-0.9975015396744252, '0631', '1712']
+[0.9971178756977082, '0222', '2424']
+[0.9969888556541437, '0323', '1633']
+[-0.9969707138179038, '0133', '1935']
+[-0.9968407957234459, '0932', '0631']
+[0.9967070577227053, '0913', '0432']
+[-0.9966681789381542, '1233', '0321']
+[0.9966563036077083, '1134', '1624']
+[-0.9966087733181836, '0622', '0522']
+[0.9965015043173592, '0726', '0522']
+[0.9964135922410455, '1653', '0232']
+2(3): Establish if the number of crime events is different between Mayor Daley and Emanuel at a granularity of your choice (not only at the city level). Find an explanation of results. 
+Annual homicide crime number during the tenure of Mayor Emanuel.  
+('2016', 788)
+('2015', 502)
+('2019', 502)
+('2018', 600)
+('2017', 674)
+Annual homicide crime number during the tenure of Mayor Daley.  
+('2006', 476)
+('2008', 513)
+('2009', 461)
+('2010', 438)
+('2007', 448)
